@@ -1,0 +1,4 @@
+.equ	BEEP_PIN  = PB0
+.equ	BEEP_PORT = PORTB
+.equ	BEEP_DDR  = DDRB
+.equ	BEEP_DELAY = 120
